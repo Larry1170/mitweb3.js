@@ -1,0 +1,13 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "mitweb3-core-helpers": "0.1.0",
+    "xhr2": "0.1.4"
+  },
+  "deprecated": false,
+  "description": "Module to handle MitWeb3 RPC connections over HTTP.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-providers-http",
+  "version": "0.1.0"
+}

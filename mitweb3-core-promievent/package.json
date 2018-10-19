@@ -1,0 +1,13 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "any-promise": "1.3.0",
+    "eventemitter3": "1.1.1"
+  },
+  "deprecated": false,
+  "description": "This package extends eventEmitters with promises to allow chaining as well as multiple final states of a function.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-core-promievent",
+  "version": "0.1.0"
+}

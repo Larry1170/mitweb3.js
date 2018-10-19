@@ -1,0 +1,18 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "bn.js": "4.11.6",
+    "mit-lib": "0.1.0",
+    "mitjs-unit": "0.1.0",
+    "number-to-bn": "1.7.0",
+    "randomhex": "0.1.5",
+    "underscore": "1.8.3",
+    "utf8": "2.1.1"
+  },
+  "deprecated": false,
+  "description": "Collection of utility functions used in mitweb3.js.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-utils",
+  "version": "0.1.0"
+}

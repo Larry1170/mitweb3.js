@@ -1,0 +1,32 @@
+{
+  "browser": "lib/api-browser.js",
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "buffer": "^5.0.5",
+    "decompress": "^4.0.0",
+    "mit-lib": "^0.1.0",
+    "fs-extra": "^2.1.2",
+    "fs-promise": "^2.0.0",
+    "got": "^7.1.0",
+    "mime-types": "^2.1.16",
+    "mkdirp-promise": "^5.0.1",
+    "mock-fs": "^4.1.0",
+    "setimmediate": "^1.0.5",
+    "tar.gz": "^1.0.5",
+    "xhr-request-promise": "^0.1.2"
+  },
+  "deprecated": false,
+  "description": "Swarm tools for JavaScript.",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "license": "MIT",
+  "main": "lib/api-node.js",
+  "name": "mitswarm-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}

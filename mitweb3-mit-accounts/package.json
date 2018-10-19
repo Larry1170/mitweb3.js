@@ -1,0 +1,21 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "any-promise": "1.3.0",
+    "crypto-browserify": "3.12.0",
+    "mit-lib": "0.1.0",
+    "scrypt.js": "0.2.0",
+    "underscore": "1.8.3",
+    "uuid": "2.0.1",
+    "mitweb3-core": "0.1.0",
+    "mitweb3-core-helpers": "0.1.0",
+    "mitweb3-core-method": "0.1.0",
+    "mitweb3-utils": "0.1.0"
+  },
+  "deprecated": false,
+  "description": "MitWeb3 module to generate mit accounts and sign data and transactions.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-mit-accounts",
+  "version": "0.1.0"
+}

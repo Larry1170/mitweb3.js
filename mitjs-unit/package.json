@@ -1,0 +1,32 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "bn.js": "4.11.6",
+    "number-to-bn": "1.7.0"
+  },
+  "deprecated": false,
+  "description": "A simple module for handling mit units (e.g. 'tnb', 'wei', etc...)",
+  "engines": {
+    "node": ">=6.5.0",
+    "npm": ">=3"
+  },
+  "files": [
+    "dist",
+    "internals",
+    "lib",
+    "src"
+  ],
+  "keywords": [
+    "mit",
+    "encoding",
+    "decoding"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "mitjs-unit",
+  "pre-commit": "build",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}

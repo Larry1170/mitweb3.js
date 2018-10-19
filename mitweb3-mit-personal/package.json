@@ -1,0 +1,16 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "mitweb3-core": "0.1.0",
+    "mitweb3-core-helpers": "0.1.0",
+    "mitweb3-core-method": "0.1.0",
+    "mitweb3-net": "0.1.0",
+    "mitweb3-utils": "0.1.0"
+  },
+  "deprecated": false,
+  "description": "MitWeb3 module to interact with the mit blockchain accounts stored in the node.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-mit-personal",
+  "version": "0.1.0"
+}

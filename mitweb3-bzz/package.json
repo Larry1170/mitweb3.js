@@ -1,0 +1,14 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "got": "7.1.0",
+    "mitswarm-js": "0.1.0",
+    "underscore": "1.8.3"
+  },
+  "deprecated": false,
+  "description": "MitWeb3 module to interact with the Swarm network.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-bzz",
+  "version": "0.1.0"
+}

@@ -1,0 +1,15 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "mitweb3-core-helpers": "0.1.0",
+    "mitweb3-core-method": "0.1.0",
+    "mitweb3-core-requestmanager": "0.1.0",
+    "mitweb3-utils": "0.1.0"
+  },
+  "deprecated": false,
+  "description": "MitWeb3 core tools for sub packages. This is an internal package.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-core",
+  "version": "0.1.0"
+}

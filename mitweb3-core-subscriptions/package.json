@@ -1,0 +1,14 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "eventemitter3": "1.1.1",
+    "underscore": "1.8.3",
+    "mitweb3-core-helpers": "0.1.0"
+  },
+  "deprecated": false,
+  "description": "Manages Mitweb3 subscriptions. This is an internal package.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-core-subscriptions",
+  "version": "0.1.0"
+}

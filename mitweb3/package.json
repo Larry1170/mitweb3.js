@@ -1,0 +1,24 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "mitweb3-bzz": "0.1.0",
+    "mitweb3-core": "0.1.0",
+    "mitweb3-mit": "0.1.0",
+    "mitweb3-mit-personal": "0.1.0",
+    "mitweb3-net": "0.1.0",
+    "mitweb3-shh": "0.1.0",
+    "mitweb3-utils": "0.1.0"
+  },
+  "deprecated": false,
+  "description": "Mit JavaScript API",
+  "keywords": [
+    "mit",
+    "JavaScript",
+    "API"
+  ],
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3",
+  "types": "index.d.ts",
+  "version": "0.1.0"
+}

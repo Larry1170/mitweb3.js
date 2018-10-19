@@ -1,0 +1,19 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "underscore": "1.8.3",
+    "mitweb3-core": "0.1.0",
+    "mitweb3-core-helpers": "0.1.0",
+    "mitweb3-core-method": "0.1.0",
+    "mitweb3-core-promievent": "0.1.0",
+    "mitweb3-core-subscriptions": "0.1.0",
+    "mitweb3-mit-abi": "0.1.0",
+    "mitweb3-utils": "0.1.0"
+  },
+  "deprecated": false,
+  "description": "MitWeb3 module to interact with mit smart contracts.",
+  "license": "LGPL-3.0",
+  "main": "src/index.js",
+  "name": "mitweb3-mit-contract",
+  "version": "0.1.0"
+}
